@@ -1438,5 +1438,25 @@
         "subAoi": "",
         "updateFrequency": "Bi-weekly (16-day)",
         "yAxis": "NDVI"
+    },
+    {
+        "aoi": "14.5995, 120.9842",
+        "aoiID": "PH01",
+        "city": "Cavite",
+        "country": "PH",
+        "description": "Bar Graph Sample",
+        "indicator": "E1",
+        "indicatorName": "test indicator Name",
+        "lastColorCode": "Blue",
+        "lastIndicatorValue": "NDVI at point",
+        "lastMeasurement": "",
+        "lastReferenceTime": "",
+        "lastReferenceValue": "",
+        "lastTime": "2020-10-20T03:52:12",
+        "region": "Cavite",
+        "siteName": "test",
+        "subAoi": "",
+        "updateFrequency": "Bi-weekly (16-day)",
+        "yAxis": "NDVI"
     }
 ]

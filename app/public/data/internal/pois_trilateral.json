@@ -1478,6 +1478,25 @@
         "subAoi": "",
         "updateFrequency": "Bi-weekly",
         "yAxis": "Percent Change"
+    },
+    {
+        "aoi": "12.8797, 121.7741",
+        "aoiID": "PH02",
+        "city": "Philippines",
+        "country": "PH",
+        "description": "Inflation Rates",
+        "indicator": "N3b",
+        "indicatorName": "Inflation Rate Changes",
+        "lastColorCode": "",
+        "lastIndicatorValue": "",
+        "lastMeasurement": "",
+        "lastReferenceTime": "",
+        "lastReferenceValue": "",
+        "lastTime": "",
+        "region": "/",
+        "siteName": "/",
+        "subAoi": "",
+        "updateFrequency": "Bi-weekly",
+        "yAxis": "Percent Change"
     }
-    
 ]

@@ -1442,7 +1442,7 @@
     {
         "aoi": "14.5995, 120.9842",
         "aoiID": "PH01",
-        "city": "Cavite",
+        "city": "NCR",
         "country": "PH",
         "description": "Bar Graph Sample",
         "indicator": "E1",
@@ -1458,5 +1458,26 @@
         "subAoi": "",
         "updateFrequency": "Bi-weekly (16-day)",
         "yAxis": "NDVI"
+    },
+    {
+        "aoi": "12.8797, 121.7740",
+        "aoiID": "PH01",
+        "city": "Philippines",
+        "country": "PH",
+        "description": "Gross Domestic Product Growth Rate",
+        "indicator": "N3b",
+        "indicatorName": "At Current Prices",
+        "lastColorCode": "",
+        "lastIndicatorValue": "",
+        "lastMeasurement": "",
+        "lastReferenceTime": "",
+        "lastReferenceValue": "",
+        "lastTime": "",
+        "region": "/",
+        "siteName": "/",
+        "subAoi": "",
+        "updateFrequency": "Bi-weekly",
+        "yAxis": "Percent Change"
     }
+    
 ]
